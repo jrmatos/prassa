@@ -1,8 +1,5 @@
 <resources>
     <string name="app_name">Prassa</string>
-    <string name="easy_button">easy</string>
-    <string name="easy_text">easy</string>
-    <string name="hard_text">hard</string>
     <string name="about_text">
         Alguma vez já esteve com seus amigos e um deles soltou aquela piada nível prassa?
         Agora você tem a oportunidade de homenageá-lo tocando o som da abertura do programa
