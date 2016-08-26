@@ -7,4 +7,4 @@ https://github.com/jrmatos/prassa/blob/master/app/app-release.apk?raw=true
 
 ## License
 
-[WTFPL 2](https://github.com/jrmatos/prassa/blob/master/LICENSE)
+[MIT](https://github.com/jrmatos/prassa/blob/master/LICENSE)
