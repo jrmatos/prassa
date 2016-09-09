@@ -4,7 +4,7 @@
 
 <img src ="https://github.com/jrmatos/prassa/blob/master/prassa.jpg"/>
 
-## Download the apk
+## APK
 https://github.com/jrmatos/prassa/blob/master/app/app-debug.apk?raw=true
 
 ## License
